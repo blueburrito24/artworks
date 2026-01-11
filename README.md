@@ -1,4 +1,10 @@
 # artworks
+
 Repository archiving all my artworks.
 
-This is a repository archiving my personal artworks alongside thumbnails and storyboards for projects on my other GitHub repositories.
+All "pdn" files are project files for the program Paint.NET, alongside "paint" files being project files for Microsoft Paint on Windows 11. 
+
+I used Microsoft Paint for a long time but have long since moved to Paint.NET. 
+
+Also note that I often archive drawings from larger pieces of work with the same overarching number but with a decimal following it to signify its association.
+
